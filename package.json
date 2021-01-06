@@ -1,0 +1,26 @@
+{
+  "name": "corysorel",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbsorel619/corysorel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbsorel619/corysorel/issues"
+  },
+  "homepage": "https://github.com/cbsorel619/corysorel#readme",
+  "dependencies": {
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.10"
+  }
+}
